@@ -23,7 +23,7 @@ This project is a simple weather dashboard that fetches current weather data for
 1. Clone the repository:
     ```bash
     git clone https://github.com/vaibhavxom/API_INTEGRATION_AND_DATA_VISUALIZATION.git
-    cd Banking-system
+    cd API_INTEGRATION_AND_DATA_VISUALIZATION
     ```
 #
 2. Create a virtual environment (optional but recommended):
@@ -62,6 +62,11 @@ Tokyo
 Sydney  
 Cairo  
 The dashboard will display a scatter plot of the current temperature for each city, with the size of the markers representing wind speed and color indicating the weather code.
+
+# output
+
+![image](https://github.com/user-attachments/assets/8b96ea2d-d92b-45ae-8743-9094ddce1cad)
+
 
 # Troubleshooting
 If you encounter issues with fetching data, ensure that the API endpoint is accessible and that the city names are correct.
