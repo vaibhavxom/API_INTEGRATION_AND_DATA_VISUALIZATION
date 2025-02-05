@@ -68,9 +68,3 @@ The dashboard will display a scatter plot of the current temperature for each ci
 ![image](https://github.com/user-attachments/assets/8b96ea2d-d92b-45ae-8743-9094ddce1cad)
 
 
-# Troubleshooting
-If you encounter issues with fetching data, ensure that the API endpoint is accessible and that the city names are correct.
-Check your internet connection if the data is not loading.  
-# License
-This project is licensed under the GNU 3 License - see the LICENSE file for details.
-
