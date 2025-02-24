@@ -26,8 +26,8 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirement.txt
 
-    - name: Run application (optional)
-      run: |
-        python weather_dashboard.py  # Replace with the name of your main script
+    #- name: Run application (optional)
+    #  run: |
+    #    python weather_dashboard.py  # Replace with the name of your main script
         
 
